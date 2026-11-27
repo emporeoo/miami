@@ -1,11 +1,11 @@
-# Grand Theft Auto VI — PS5 Patches (v1.0)
+# Miami Patches
 
 Performance, visual, and gameplay patches for **Grand Theft Auto VI** on PS5.
 
 ## Supported Game
 * **Title:** Grand Theft Auto VI
 * **Title ID:** `PPSA38500`
-* **Game Version:** `v01.002.001` (`eboot.bin`)
+* **Game Version:** `v01.002.001`
 
 ## Available Patches
 * **60 FPS Unlock:** Unlocks the frame rate target to 60 FPS (16.67 ms minimum timestep). *Experimental; requires testing for gameplay speed.*
