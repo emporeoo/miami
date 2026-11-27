@@ -18,9 +18,12 @@ Performance, visual, and gameplay patches for **Grand Theft Auto VI** on PS5.
 * **Low Volumetric Lighting:** Forces the lowest volumetric-lighting preset, altering fog and light shafts. *Experimental; FPS impact untested.*
 
 ## How to Use
-1. **Install Patch System:** Ensure the PS5 Patch System payload (e.g., *etaHEN* / *ps5_patch_system*) is loaded and active on your console.
-2. **Transfer Patch File:** Copy `patches/PPSA38500.xml` to your PS5 storage via FTP or USB file manager at:
-   ```text
-   /data/user/patches/xml_prospero/PPSA38500.xml
-   ```
-3. **Enable Patches:** Open the Patch System menu on your PS5, select **Grand Theft Auto VI (`PPSA38500`)**, toggle your desired patches, and launch the game.
+1. **Download & Install the Payload:** Grab the latest release from [illusionyy/ps-patch-system](https://github.com/illusionyy/ps-patch-system) and install/load it on your PS5.
+2. **Transfer the Patch File:** Copy `patches/PPSA38500.xml` to your PS5 via FTP or USB file manager at:
+   `/data/user/patches/xml_prospero/PPSA38500.xml`
+3. **Enable Patches in the GUI:** Open the **ps-patch-system** GUI app on your PS5, switch to the **PS5** tab, select **`PPSA38500`**, and toggle on the patches you want. *(Enable only one resolution preset at a time.)*
+4. **Launch the Game:** Start **Grand Theft Auto VI**—a notification will pop up confirming the patches are active.
+
+## Credits
+* **[illusionyy](https://github.com/illusionyy)** — Creator and maintainer of [ps-patch-system](https://github.com/illusionyy/ps-patch-system).
+* 
